@@ -1,0 +1,49 @@
+/* Gerais */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.row{
+    margin: 0;
+}
+
+.container{
+    padding: 70px 0;
+}
+
+p, li{
+    color: #1C1C1C;
+    font-size: 14px;
+}
+
+/* Navbar */
+header, .navbar{
+    background-color: 	#F5F5F5;
+}
+
+#nav-container{
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#logo{
+    width: 75px;
+}
+
+.navbar-brand{
+    padding: 0;
+    color: #1C1C1C;
+}
+
+.navbar-brand:hover{
+    color: #363636;
+    text-shadow: 0 0 05px #4F4F4F;
+}
+
+#navbar-links a{
+    color: #1C1C1C;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding: 1rem .8rem;
+}
