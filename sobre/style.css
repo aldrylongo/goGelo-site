@@ -1,0 +1,43 @@
+main{
+    height: 100vh;
+}
+
+.wrapper{
+    max-width: 988px;
+    margin: 0 auto;
+}
+
+.container{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+p{
+    font-size: 1rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+h1{
+    font-size: 2rem;
+    
+}
+
+.foto-fabrica{
+    width: 500px;
+}
+
+
+.esquerda{
+   width: 50%;
+}
+
+.direita{
+    width: 40%;
+}
+
+@media only screen and (min-width: 200px){
+    
+}
