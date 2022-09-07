@@ -130,6 +130,42 @@ header, .navbar{
 }
 
 
+#copy-area{
+    background-color: #1C1C1C;
+}
+
+#copy-area .container{
+    padding: 10px 0;
+    text-align: center;
+}
+
+#copy-area .container p{
+    margin-bottom: 0;
+    color: #F5F5F5;
+    font-size: 11px;
+}
+
+#copy-area .container a{
+    font-weight: bold;
+    color: #F9F9F9;
+}
+
+#copy-area .container a:hover{
+    text-decoration: none;
+    color: #4F4F4F;
+}
+
+.socialesContainer{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.sociales{
+   width: 30px;
+}
+
+
+
 @media only screen and (min-width: 200px){
     .container-fluid{
         padding: 0;
